@@ -6,7 +6,7 @@
 
 ### 动图演示：
 
-![img](https://github.com/yuejianjian/react-webpp/blob/master/GIF.gif)
+![img](https://github.com/yuejianjian/vue-webpp/blob/master/GIF.gif)
 ### 项目描述
 项目基于四个业务模块：**首页，案例，套餐，预约**。这些模块中包含了一些基础组件来支撑业务逻辑：
 - **首页模块** ：展示基本信息，轮播图，套餐，设计师，服务等功能展示；
